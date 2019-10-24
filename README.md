@@ -1,2 +1,2 @@
 # python-101
-Scrimba python 
+Lessons learned from [Scrimba python](https://scrimba.com/playlist/pNpZMAB)
